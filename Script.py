@@ -42,7 +42,7 @@ Just Add Me To Your Group And Enjoy Of All Available Movies On TG."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/vcb_movies_telugu)</code>
+<code>[Button Text](buttonurl:https//t.me/EvaMariaBot)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
